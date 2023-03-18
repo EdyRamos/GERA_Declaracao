@@ -14,7 +14,7 @@ Este projeto é uma aplicação simples em AutoHotkey que permite gerar e imprim
 
 1. Instale o AutoHotkey no seu computador (https://www.autohotkey.com/).
 2. Clone este repositório ou baixe o script principal `DeclaracaoAtendimento.ahk`.
-3. Tenha certeza de possuir os modelos de declaração e a pasta de bkp no mesmo diretório do Arquivo `DeclaracaoAtendimento.ahk`
+3. Tenha certeza de possuir os modelos de declaração e de criar a pasta: "Bkp_atend" no mesmo diretório do Arquivo `DeclaracaoAtendimento.ahk`
 4. Execute o script `DeclaracaoAtendimento.ahk` com o AutoHotkey.
 
 Ao executar o script, a interface principal do programa será exibida. Selecione o tipo de declaração (Paciente ou Acompanhante), preencha as informações necessárias e clique no botão "IMPRIMIR" para gerar e imprimir a declaração de atendimento.
